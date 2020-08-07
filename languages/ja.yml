@@ -1,7 +1,7 @@
 common:
     archive:
-        one: 'アーカイブ'
-        other: 'アーカイブ'
+        one: '記事一覧'
+        other: '記事一覧'
     category:
         one: 'カテゴリ'
         other: 'カテゴリ'
@@ -9,29 +9,49 @@ common:
         one: 'タグ'
         other: 'タグ'
     post:
-        one: '投稿'
-        other: '投稿'
+        one: '記事'
+        other: '記事'
+    page:
+        one: '固定ページ'
+        other: '固定ページ'
     prev: '前'
     next: '次'
 widget:
-    follow: 'フォローする'
+    follow: 'フォロー'
     recents: '最近の記事'
     links: 'リンク'
     tag_cloud: 'タグクラウド'
     catalogue: 'カタログ'
+    subscribe_email: '更新情報などのemail配信'
+    subscribe: '配信'
+    adsense: '広告'
 article:
-    more: 'Read More'
+    more: '続きを読む'
     comments: 'コメント'
-    read: 'read'
-    about: 'About'
-    words: 'words'
+    read: 'で読める'
+    about: '約'
+    words: '字'
+donate:
+    title: 'この記事が気に入ったら、サポートをしてみませんか？
+    alipay: 'Alipay'
+    wechat: 'Wechat'
+    paypal: 'Paypal'
+    patreon: 'Patreon'
+    buymeacoffee: 'サポートをする'
+plugin:
+    backtotop: 'TOPへ戻る'
+    visit: '訪問回数 %s'
+    visitor: '訪問者数：%s'
 search:
-    search: 'Search'
-    hint: 'Type something...'
+    search: '検索'
+    hint: '全文検索ができる'
+    no_result: '検索条件に該当する記事がない'
+    untitled: '(Untitled)'
+    empty_preview: '(No preview)'
 insight:
     hint: 'Type something...'
-    posts: '投稿'
-    pages: 'Pages'
+    posts: '記事'
+    pages: '固定ページ'
     categories: 'カテゴリ'
     tags: 'タグ'
     untitled: '(Untitled)'
